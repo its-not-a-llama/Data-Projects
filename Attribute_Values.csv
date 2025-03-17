@@ -1,0 +1,856 @@
+Attribute,NumValue,Value
+state,1,Alabama/AL
+state,2,Alaska/AK
+state,4,Arizona/AZ
+state,5,Arkansas/AR
+state,6,California/CA
+state,8,Colorado/CO
+state,9,Connecticut/CT
+state,10,Delaware/DE
+state,11,District of Columbia/DC
+state,12,Florida/FL
+state,13,Georgia/GA
+state,15,Hawaii/HI
+state,16,Idaho/ID
+state,17,Illinois/IL
+state,18,Indiana/IN
+state,19,Iowa/IA
+state,20,Kansas/KS
+state,21,Kentucky/KY
+state,22,Louisiana/LA
+state,23,Maine/ME
+state,24,Maryland/MD
+state,25,Massachusetts/MA
+state,26,Michigan/MI
+state,27,Minnesota/MN
+state,28,Mississippi/MS
+state,29,Missouri/MO
+state,30,Montana/MT
+state,31,Nebraska/NE
+state,32,Nevada/NV
+state,33,New Hampshire/NH
+state,34,New Jersey/NJ
+state,35,New Mexico/NM
+state,36,New York/NY
+state,37,North Carolina/NC
+state,38,North Dakota/ND
+state,39,Ohio/OH
+state,40,Oklahoma/OK
+state,41,Oregon/OR
+state,42,Pennsylvania/PA
+state,44,Rhode Island/RI
+state,45,South Carolina/SC
+state,46,South Dakota/SD
+state,47,Tennessee/TN
+state,48,Texas/TX
+state,49,Utah/UT
+state,50,Vermont/VT
+state,51,Virginia/VA
+state,53,Washington/WA
+state,54,West Virginia/WV
+state,55,Wisconsin/WI
+state,56,Wyoming/WY
+state,72,Puerto Rico/PR
+marital,1,Married
+marital,2,Widowed
+marital,3,Divorced
+marital,4,Separated
+marital,5,Never married or under 15 years old
+CoW,1,"Employee of a private for-profit company or business, or of an individual, for wages, salary, or commissions"
+CoW,2,"Employee of a private not-for-profit, tax-exempt, or charitable organization"
+CoW,3,"Local government employee (city, county, etc.)"
+CoW,4,State government employee
+CoW,5,Federal government employee
+CoW,6,"Self-employed in own not incorporated business, professional practice, or farm"
+CoW,7,"Self-employed in own incorporated business, professional practice or farm"
+CoW,8,Working without pay in family business or farm
+CoW,9,Unemployed and last worked 5 years ago or earlier or never worked
+sex,1,Male
+sex,2,Female
+education,1,No schooling completed
+education,2,"Nursery school, preschool"
+education,3,Kindergarten
+education,4,Grade 1
+education,5,Grade 2
+education,6,Grade 3
+education,7,Grade 4
+education,8,Grade 5
+education,9,Grade 6
+education,10,Grade 7
+education,11,Grade 8
+education,12,Grade 9
+education,13,Grade 10
+education,14,Grade 11
+education,15,12th grade - no diploma
+education,16,Regular high school diploma
+education,17,GED or alternative credential
+education,18,"Some college, but less than 1 year"
+education,19,"1 or more years of college credit, no degree"
+education,20,Associate's degree
+education,21,Bachelor's degree
+education,22,Master's degree
+education,23,Professional degree beyond a bachelor's degree
+education,24,Doctorate degree
+PoB,1,Alabama/AL
+PoB,2,Alaska/AK
+PoB,4,Arizona/AZ
+PoB,5,Arkansas/AR
+PoB,6,California/CA
+PoB,8,Colorado/CO
+PoB,9,Connecticut/CT
+PoB,10,Delaware/DE
+PoB,11,District of Columbia/DC
+PoB,12,Florida/FL
+PoB,13,Georgia/GA
+PoB,15,Hawaii/HI
+PoB,16,Idaho/ID
+PoB,17,Illinois/IL
+PoB,18,Indiana/IN
+PoB,19,Iowa/IA
+PoB,20,Kansas/KS
+PoB,21,Kentucky/KY
+PoB,22,Louisiana/LA
+PoB,23,Maine/ME
+PoB,24,Maryland/MD
+PoB,25,Massachusetts/MA
+PoB,26,Michigan/MI
+PoB,27,Minnesota/MN
+PoB,28,Mississippi/MS
+PoB,29,Missouri/MO
+PoB,30,Montana/MT
+PoB,31,Nebraska/NE
+PoB,32,Nevada/NV
+PoB,33,New Hampshire/NH
+PoB,34,New Jersey/NJ
+PoB,35,New Mexico/NM
+PoB,36,New York/NY
+PoB,37,North Carolina/NC
+PoB,38,North Dakota/ND
+PoB,39,Ohio/OH
+PoB,40,Oklahoma/OK
+PoB,41,Oregon/OR
+PoB,42,Pennsylvania/PA
+PoB,44,Rhode Island/RI
+PoB,45,South Carolina/SC
+PoB,46,South Dakota/SD
+PoB,47,Tennessee/TN
+PoB,48,Texas/TX
+PoB,49,Utah/UT
+PoB,50,Vermont/VT
+PoB,51,Virginia/VA
+PoB,53,Washington/WA
+PoB,54,West Virginia/WV
+PoB,55,Wisconsin/WI
+PoB,56,Wyoming/WY
+PoB,60,American Samoa
+PoB,66,Guam
+PoB,69,Commonwealth of the Northern Mariana Islands
+PoB,72,Puerto Rico
+PoB,78,US Virgin Islands
+PoB,100,Albania
+PoB,102,Austria
+PoB,103,Belgium
+PoB,104,Bulgaria
+PoB,105,Czechoslovakia
+PoB,106,Denmark
+PoB,108,Finland
+PoB,109,France
+PoB,110,Germany
+PoB,116,Greece
+PoB,117,Hungary
+PoB,118,Iceland
+PoB,119,Ireland
+PoB,120,Italy
+PoB,126,Netherlands
+PoB,127,Norway
+PoB,128,Poland
+PoB,129,Portugal
+PoB,130,Azores Islands
+PoB,132,Romania
+PoB,134,Spain
+PoB,136,Sweden
+PoB,137,Switzerland
+PoB,138,"United Kingdom, Not Specified"
+PoB,139,England
+PoB,140,Scotland
+PoB,142,Northern Ireland
+PoB,147,Yugoslavia
+PoB,148,Czech Republic
+PoB,149,Slovakia
+PoB,150,Bosnia and Herzegovina
+PoB,151,Croatia
+PoB,152,Macedonia
+PoB,154,Serbia
+PoB,156,Latvia
+PoB,157,Lithuania
+PoB,158,Armenia
+PoB,159,Azerbaijan
+PoB,160,Belarus
+PoB,161,Georgia
+PoB,162,Moldova
+PoB,163,Russia
+PoB,164,Ukraine
+PoB,165,USSR
+PoB,166,Europe
+PoB,167,Kosovo
+PoB,168,Montenegro
+PoB,169,"Other Europe, Not Specified"
+PoB,200,Afghanistan
+PoB,202,Bangladesh
+PoB,203,Bhutan
+PoB,205,Myanmar
+PoB,206,Cambodia
+PoB,207,China
+PoB,209,Hong Kong
+PoB,210,India
+PoB,211,Indonesia
+PoB,212,Iran
+PoB,213,Iraq
+PoB,214,Israel
+PoB,215,Japan
+PoB,216,Jordan
+PoB,217,Korea
+PoB,218,Kazakhstan
+PoB,219,Kyrgyzstan
+PoB,222,Kuwait
+PoB,223,Laos
+PoB,224,Lebanon
+PoB,226,Malaysia
+PoB,228,Mongolia
+PoB,229,Nepal
+PoB,231,Pakistan
+PoB,233,Philippines
+PoB,235,Saudi Arabia
+PoB,236,Singapore
+PoB,238,Sri Lanka
+PoB,239,Syria
+PoB,240,Taiwan
+PoB,242,Thailand
+PoB,243,Turkey
+PoB,245,United Arab Emirates
+PoB,246,Uzbekistan
+PoB,247,Vietnam
+PoB,248,Yemen
+PoB,249,Asia
+PoB,253,"South Central Asia, Not Specified"
+PoB,254,"Other Asia, Not Specified"
+PoB,300,Bermuda
+PoB,301,Canada
+PoB,303,Mexico
+PoB,310,Belize
+PoB,311,Costa Rica
+PoB,312,El Salvador
+PoB,313,Guatemala
+PoB,314,Honduras
+PoB,315,Nicaragua
+PoB,316,Panama
+PoB,321,Antigua & Barbuda
+PoB,323,Bahamas
+PoB,324,Barbados
+PoB,327,Cuba
+PoB,328,Dominica
+PoB,329,Dominican Republic
+PoB,330,Grenada
+PoB,332,Haiti
+PoB,333,Jamaica
+PoB,338,St. Kitts-Nevis
+PoB,339,St. Lucia
+PoB,340,St. Vincent & the Grenadines
+PoB,341,Trinidad & Tobago
+PoB,343,West Indies
+PoB,344,"Caribbean, Not Specified"
+PoB,360,Argentina
+PoB,361,Bolivia
+PoB,362,Brazil
+PoB,363,Chile
+PoB,364,Colombia
+PoB,365,Ecuador
+PoB,368,Guyana
+PoB,369,Paraguay
+PoB,370,Peru
+PoB,372,Uruguay
+PoB,373,Venezuela
+PoB,374,South America
+PoB,399,"Americas, Not Specified"
+PoB,400,Algeria
+PoB,407,Cameroon
+PoB,408,Cabo Verde
+PoB,412,Congo
+PoB,414,Egypt
+PoB,416,Ethiopia
+PoB,417,Eritrea
+PoB,420,Gambia
+PoB,421,Ghana
+PoB,423,Guinea
+PoB,425,Ivory Coast
+PoB,427,Kenya
+PoB,429,Liberia
+PoB,430,Libya
+PoB,436,Morocco
+PoB,440,Nigeria
+PoB,442,Rwanda
+PoB,444,Senegal
+PoB,447,Sierra Leone
+PoB,448,Somalia
+PoB,449,South Africa
+PoB,451,Sudan
+PoB,453,Tanzania
+PoB,454,Togo
+PoB,456,Tunisia
+PoB,457,Uganda
+PoB,459,Democratic Republic of Congo (Zaire)
+PoB,460,Zambia
+PoB,461,Zimbabwe
+PoB,462,Africa
+PoB,463,South Sudan
+PoB,464,"Northern Africa, Not Specified"
+PoB,467,"Western Africa, Not Specified"
+PoB,468,"Other Africa, Not Specified"
+PoB,469,"Eastern Africa, Not Specified"
+PoB,501,Australia
+PoB,508,Fiji
+PoB,511,Marshall Islands
+PoB,512,Micronesia
+PoB,515,New Zealand
+PoB,523,Tonga
+PoB,527,Samoa
+PoB,554,"Other US Island Areas, Oceania, Not Specified, or at Sea"
+race,1,White
+race,2,Black/African American
+race,3,American Indian
+race,4,Alaska Native
+race,5,American Indian/Alaska Native tribes specified
+race,6,Asian
+race,7,Native Hawaiian/Pacific Islander
+race,8,Some Other Race
+race,9,Two or More Races
+occupation,10,MGR-Chief Executives And Legislators
+occupation,20,MGR-General And Operations Managers
+occupation,40,MGR-Advertising And Promotions Managers
+occupation,51,MGR-Marketing Managers
+occupation,52,MGR-Sales Managers
+occupation,60,MGR-Public Relations And Fundraising Managers
+occupation,101,MGR-Administrative Services Managers
+occupation,102,MGR-Facilities Managers
+occupation,110,MGR-Computer And Information Systems Managers
+occupation,120,MGR-Financial Managers
+occupation,135,MGR-Compensation And Benefits Managers
+occupation,136,MGR-Human Resources Managers
+occupation,137,MGR-Training And Development Managers
+occupation,140,MGR-Industrial Production Managers
+occupation,150,MGR-Purchasing Managers
+occupation,160,"MGR-Transportation, Storage, And Distribution Managers"
+occupation,205,"MGR-Farmers, Ranchers, And Other Agricultural Managers"
+occupation,220,MGR-Construction Managers
+occupation,230,MGR-Education And Childcare Administrators
+occupation,300,MGR-Architectural And Engineering Managers
+occupation,310,MGR-Food Service Managers
+occupation,335,MGR-Entertainment and Recreation Managers
+occupation,340,MGR-Lodging Managers
+occupation,350,MGR-Medical And Health Services Managers
+occupation,360,MGR-Natural Sciences Managers
+occupation,410,"MGR-Property, Real Estate, And Community Association Managers"
+occupation,420,MGR-Social And Community Service Managers
+occupation,425,MGR-Emergency Management Directors
+occupation,440,MGR-Other Managers
+occupation,500,"BUS-Agents And Business Managers Of Artists, Performers, And Athletes"
+occupation,510,"BUS-Buyers And Purchasing Agents, Farm Products"
+occupation,520,"BUS-Wholesale And Retail Buyers, Except Farm Products"
+occupation,530,"BUS-Purchasing Agents, Except Wholesale, Retail, And Farm Products"
+occupation,540,"BUS-Claims Adjusters, Appraisers, Examiners, And Investigators"
+occupation,565,BUS-Compliance Officers
+occupation,600,BUS-Cost Estimators
+occupation,630,BUS-Human Resources Workers
+occupation,640,"BUS-Compensation, Benefits, And Job Analysis Specialists"
+occupation,650,BUS-Training And Development Specialists
+occupation,700,BUS-Logisticians
+occupation,705,BUS-Project Management Specialists
+occupation,710,BUS-Management Analysts
+occupation,725,"BUS-Meeting, Convention, And Event Planners"
+occupation,726,BUS-Fundraisers
+occupation,735,BUS-Market Research Analysts And Marketing Specialists
+occupation,750,"BUS-Business Operations Specialists, All Other"
+occupation,800,FIN-Accountants And Auditors
+occupation,810,FIN-Property Appraisers and Assessors
+occupation,820,FIN-Budget Analysts
+occupation,830,FIN-Credit Analysts
+occupation,845,FIN-Financial And Investment Analysts
+occupation,850,FIN-Personal Financial Advisors
+occupation,860,FIN-Insurance Underwriters
+occupation,900,FIN-Financial Examiners
+occupation,910,FIN-Credit Counselors And Loan Officers
+occupation,930,"FIN-Tax Examiners And Collectors, And Revenue Agents"
+occupation,940,FIN-Tax Preparers
+occupation,960,FIN-Other Financial Specialists
+occupation,1005,CMM-Computer And Information Research Scientists
+occupation,1006,CMM-Computer Systems Analysts
+occupation,1007,CMM-Information Security Analysts
+occupation,1010,CMM-Computer Programmers
+occupation,1021,CMM-Software Developers
+occupation,1022,CMM-Software Quality Assurance Analysts and Testers
+occupation,1031,CMM-Web Developers
+occupation,1032,CMM-Web And Digital Interface Designers
+occupation,1050,CMM-Computer Support Specialists
+occupation,1065,CMM-Database Administrators and Architects
+occupation,1105,CMM-Network And Computer Systems Administrators
+occupation,1106,CMM-Computer Network Architects
+occupation,1108,"CMM-Computer Occupations, All Other"
+occupation,1200,CMM-Actuaries
+occupation,1220,CMM-Operations Research Analysts
+occupation,1240,CMM-Other Mathematical Science Occupations
+occupation,1305,"ENG-Architects, Except Landscape And Naval"
+occupation,1306,ENG-Landscape Architects
+occupation,1310,"ENG-Surveyors, Cartographers, And Photogrammetrists"
+occupation,1320,ENG-Aerospace Engineers
+occupation,1340,ENG-Biomedical And Agricultural Engineers
+occupation,1350,ENG-Chemical Engineers
+occupation,1360,ENG-Civil Engineers
+occupation,1400,ENG-Computer Hardware Engineers
+occupation,1410,ENG-Electrical And Electronics Engineers
+occupation,1420,ENG-Environmental Engineers
+occupation,1430,"ENG-Industrial Engineers, Including Health And Safety"
+occupation,1440,ENG-Marine Engineers And Naval Architects
+occupation,1450,ENG-Materials Engineers
+occupation,1460,ENG-Mechanical Engineers
+occupation,1520,"ENG-Petroleum, Mining And Geological Engineers, Including Mining Safety Engineers"
+occupation,1530,ENG-Other Engineers
+occupation,1541,ENG-Architectural And Civil Drafters
+occupation,1545,ENG-Other Drafters
+occupation,1551,ENG-Electrical And Electronic Engineering Technologists and Technicians
+occupation,1555,"Other Engineering Technologists And Technicians, Except Drafters"
+occupation,1560,ENG-Surveying And Mapping Technicians
+occupation,1600,SCI-Agricultural And Food Scientists
+occupation,1610,SCI-Biological Scientists
+occupation,1640,SCI-Conservation Scientists And Foresters
+occupation,1650,SCI-Other Life Scientists
+occupation,1700,SCI-Astronomers And Physicists
+occupation,1710,SCI-Atmospheric And Space Scientists
+occupation,1720,SCI-Chemists And Materials Scientists
+occupation,1745,"SCI-Environmental Scientists And Specialists, Including Health"
+occupation,1750,"SCI-Geoscientists And Hydrologists, Except Geographers"
+occupation,1760,"SCI-Physical Scientists, All Other"
+occupation,1800,SCI-Economists
+occupation,1821,SCI-Clinical And Counseling Psychologists
+occupation,1822,SCI-School Psychologists
+occupation,1825,SCI-Other Psychologists
+occupation,1840,SCI-Urban And Regional Planners
+occupation,1860,SCI-Other Social Scientists
+occupation,1900,SCI-Agricultural And Food Science Technicians
+occupation,1910,SCI-Biological Technicians
+occupation,1920,SCI-Chemical Technicians
+occupation,1935,"SCI-Environmental Science and Geoscience Technicians, And Nuclear Technicians"
+occupation,1970,"SCI-Other Life, Physical, And Social Science Technicians"
+occupation,1980,SCI-Occupational Health And Safety Specialists and Technicians
+occupation,2001,CMS-Substance Abuse And Behavioral Disorder Counselors
+occupation,2002,"CMS-Educational, Guidance, And Career Counselors And Advisors"
+occupation,2003,CMS-Marriage And Family Therapists
+occupation,2004,CMS-Mental Health Counselors
+occupation,2005,CMS-Rehabilitation Counselors
+occupation,2006,"CMS-Counselors, All Other"
+occupation,2011,"CMS-Child, Family, And School Social Workers"
+occupation,2012,CMS-Healthcare Social Workers
+occupation,2013,CMS-Mental Health And Substance Abuse Social Workers
+occupation,2014,"CMS-Social Workers, All Other"
+occupation,2015,CMS-Probation Officers And Correctional Treatment Specialists
+occupation,2016,CMS-Social And Human Service Assistants
+occupation,2025,CMS-Other Community and Social Service Specialists
+occupation,2040,CMS-Clergy
+occupation,2050,"CMS-Directors, Religious Activities And Education"
+occupation,2060,"CMS-Religious Workers, All Other"
+occupation,2100,"LGL-Lawyers, And Judges, Magistrates, And Other Judicial Workers"
+occupation,2105,LGL-Judicial Law Clerks
+occupation,2145,LGL-Paralegals And Legal Assistants
+occupation,2170,"LGL-Title Examiners, Abstractors, and Searchers"
+occupation,2180,"LGL-Legal Support Workers, All Other"
+occupation,2205,EDU-Postsecondary Teachers
+occupation,2300,EDU-Preschool And Kindergarten Teachers
+occupation,2310,EDU-Elementary And Middle School Teachers
+occupation,2320,EDU-Secondary School Teachers
+occupation,2330,EDU-Special Education Teachers
+occupation,2350,EDU-Tutors
+occupation,2360,EDU-Other Teachers and Instructors
+occupation,2400,"EDU-Archivists, Curators, And Museum Technicians"
+occupation,2435,EDU-Librarians And Media Collections Specialists
+occupation,2440,EDU-Library Technicians
+occupation,2545,EDU-Teaching Assistants
+occupation,2555,EDU-Other Educational Instruction and Library Workers
+occupation,2600,ENT-Artists And Related Workers
+occupation,2631,ENT-Commercial And Industrial Designers
+occupation,2632,ENT-Fashion Designers
+occupation,2633,ENT-Floral Designers
+occupation,2634,ENT-Graphic Designers
+occupation,2635,ENT-Interior Designers
+occupation,2636,ENT-Merchandise Displayers And Windows Trimmers
+occupation,2640,ENT-Other Designers
+occupation,2700,ENT-Actors
+occupation,2710,ENT-Producers And Directors
+occupation,2721,ENT-Athletes and Sports Competitors
+occupation,2722,ENT-Coaches and Scouts
+occupation,2723,"ENT-Umpires, Referees, And Other Sports Officials"
+occupation,2740,ENT-Dancers And Choreographers
+occupation,2751,ENT-Music Directors and Composers
+occupation,2752,ENT-Musicians and Singers
+occupation,2755,"ENT-Disc Jockeys, Except Radio"
+occupation,2770,"ENT-Entertainers And Performers, Sports and Related Workers, All Other"
+occupation,2805,ENT-Broadcast Announcers And Radio Disc Jockeys
+occupation,2810,"ENT-News Analysts, Reporters And Correspondents"
+occupation,2825,ENT-Public Relations Specialists
+occupation,2830,ENT-Editors
+occupation,2840,ENT-Technical Writers
+occupation,2850,ENT-Writers And Authors
+occupation,2861,ENT-Interpreters and Translators
+occupation,2862,ENT-Court Reporters and Simultaneous Captioners
+occupation,2865,"ENT-Media And Communication Workers, All Other"
+occupation,2905,ENT-Other Media And Communication Equipment Workers
+occupation,2910,ENT-Photographers
+occupation,2920,"ENT-Television, Video, And Motion Picture Camera Operators And Editors"
+occupation,3000,MED-Chiropractors
+occupation,3010,MED-Dentists
+occupation,3030,MED-Dietitians And Nutritionists
+occupation,3040,MED-Optometrists
+occupation,3050,MED-Pharmacists
+occupation,3090,MED-Physicians
+occupation,3100,MED-Surgeons
+occupation,3110,MED-Physician Assistants
+occupation,3120,MED-Podiatrists
+occupation,3140,MED-Audiologists
+occupation,3150,MED-Occupational Therapists
+occupation,3160,MED-Physical Therapists
+occupation,3200,MED-Radiation Therapists
+occupation,3210,MED-Recreational Therapists
+occupation,3220,MED-Respiratory Therapists
+occupation,3230,MED-Speech-Language Pathologists
+occupation,3245,MED-Other Therapists
+occupation,3250,MED-Veterinarians
+occupation,3255,MED-Registered Nurses
+occupation,3256,MED-Nurse Anesthetists
+occupation,3258,"MED-Nurse Practitioners, And Nurse Midwives"
+occupation,3261,MED-Acupuncturists
+occupation,3270,"MED-Healthcare Diagnosing Or Treating Practitioners, All Other"
+occupation,3300,MED-Clinical Laboratory Technologists And Technicians
+occupation,3310,MED-Dental Hygienists
+occupation,3321,MED-Cardiovascular Technologists and Technicians
+occupation,3322,MED-Diagnostic Medical Sonographers
+occupation,3323,MED-Radiologic Technologists And Technicians
+occupation,3324,MED-Magnetic Resonance Imaging Technologists
+occupation,3330,MED-Nuclear Medicine Technologists and Medical Dosimetrists
+occupation,3401,MED-Emergency Medical Technicians
+occupation,3402,MED-Paramedics
+occupation,3421,MED-Pharmacy Technicians
+occupation,3422,MED-Psychiatric Technicians
+occupation,3423,MED-Surgical Technologists
+occupation,3424,MED-Veterinary Technologists and Technicians
+occupation,3430,MED-Dietetic Technicians And Ophthalmic Medical Technicians
+occupation,3500,MED-Licensed Practical And Licensed Vocational Nurses
+occupation,3515,MED-Medical Records Specialists
+occupation,3520,"MED-Opticians, Dispensing"
+occupation,3545,MED-Miscellaneous Health Technologists and Technicians
+occupation,3550,MED-Other Healthcare Practitioners and Technical Occupations
+occupation,3601,HLS-Home Health Aides
+occupation,3602,HLS-Personal Care Aides
+occupation,3603,HLS-Nursing Assistants
+occupation,3605,HLS-Orderlies and Psychiatric Aides
+occupation,3610,HLS-Occupational Therapy Assistants And Aides
+occupation,3620,HLS-Physical Therapist Assistants And Aides
+occupation,3630,HLS-Massage Therapists
+occupation,3640,HLS-Dental Assistants
+occupation,3645,HLS-Medical Assistants
+occupation,3646,HLS-Medical Transcriptionists
+occupation,3647,HLS-Pharmacy Aides
+occupation,3648,HLS-Veterinary Assistants And Laboratory Animal Caretakers
+occupation,3649,HLS-Phlebotomists
+occupation,3655,HLS-Other Healthcare Support Workers
+occupation,3700,PRT-First-Line Supervisors Of Correctional Officers
+occupation,3710,PRT-First-Line Supervisors Of Police And Detectives
+occupation,3720,PRT-First-Line Supervisors Of Fire Fighting And Prevention Workers
+occupation,3725,"PRT-First-Line Supervisors of Security And Protective Service Workers, All Other"
+occupation,3740,PRT-Firefighters
+occupation,3750,PRT-Fire Inspectors
+occupation,3801,PRT-Bailiffs
+occupation,3802,PRT-Correctional Officers and Jailers
+occupation,3820,PRT-Detectives And Criminal Investigators
+occupation,3840,PRT-Fish And Game Wardens And Parking Enforcement Officers
+occupation,3870,PRT-Police Officers
+occupation,3900,PRT-Animal Control Workers
+occupation,3910,PRT-Private Detectives And Investigators
+occupation,3930,PRT-Security Guards And Gaming Surveillance Officers
+occupation,3940,PRT-Crossing Guards And Flaggers
+occupation,3945,PRT-Transportation Security Screeners
+occupation,3946,PRT-School Bus Monitors
+occupation,3960,PRT-Other Protective Service Workers
+occupation,4000,EAT-Chefs And Head Cooks
+occupation,4010,EAT-First-Line Supervisors Of Food Preparation And Serving Workers
+occupation,4020,EAT-Cooks
+occupation,4030,EAT-Food Preparation Workers
+occupation,4040,EAT-Bartenders
+occupation,4055,EAT-Fast Food And Counter Workers
+occupation,4110,EAT-Waiters And Waitresses
+occupation,4120,"EAT-Food Servers, Nonrestaurant"
+occupation,4130,EAT-Dining Room And Cafeteria Attendants And Bartender Helpers
+occupation,4140,EAT-Dishwashers
+occupation,4150,"EAT-Hosts And Hostesses, Restaurant, Lounge, And Coffee Shop"
+occupation,4160,"EAT-Food Preparation and Serving Related Workers, All Other"
+occupation,4200,CLN-First-Line Supervisors Of Housekeeping And Janitorial Workers
+occupation,4210,"CLN-First-Line Supervisors Of Landscaping, Lawn Service, And Groundskeeping Workers"
+occupation,4220,CLN-Janitors And Building Cleaners
+occupation,4230,CLN-Maids And Housekeeping Cleaners
+occupation,4240,CLN-Pest Control Workers
+occupation,4251,CLN-Landscaping And Groundskeeping Workers
+occupation,4252,CLN-Tree Trimmers and Pruners
+occupation,4255,CLN-Other Grounds Maintenance Workers
+occupation,4330,PRS-Supervisors Of Personal Care And Service Workers
+occupation,4340,PRS-Animal Trainers
+occupation,4350,PRS-Animal Caretakers
+occupation,4400,PRS-Gambling Services Workers
+occupation,4420,"PRS-Ushers, Lobby Attendants, And Ticket Takers"
+occupation,4435,PRS-Other Entertainment Attendants And Related Workers
+occupation,4461,"PRS-Embalmers, Crematory Operators, And Funeral Attendants"
+occupation,4465,"PRS-Morticians, Undertakers, And Funeral Arrangers"
+occupation,4500,PRS-Barbers
+occupation,4510,"PRS-Hairdressers, Hairstylists, And Cosmetologists"
+occupation,4521,PRS-Manicurists And Pedicurists
+occupation,4522,PRS-Skincare Specialists
+occupation,4525,PRS-Other Personal Appearance Workers
+occupation,4530,"PRS-Baggage Porters, Bellhops, And Concierges"
+occupation,4540,PRS-Tour And Travel Guides
+occupation,4600,PRS-Childcare Workers
+occupation,4621,PRS-Exercise Trainers And Group Fitness Instructors
+occupation,4622,PRS-Recreation Workers
+occupation,4640,PRS-Residential Advisors
+occupation,4655,"PRS-Personal Care and Service Workers, All Other"
+occupation,4700,SAL-First-Line Supervisors Of Retail Sales Workers
+occupation,4710,SAL-First-Line Supervisors Of Non-Retail Sales Workers
+occupation,4720,SAL-Cashiers
+occupation,4740,SAL-Counter And Rental Clerks
+occupation,4750,SAL-Parts Salespersons
+occupation,4760,SAL-Retail Salespersons
+occupation,4800,SAL-Advertising Sales Agents
+occupation,4810,SAL-Insurance Sales Agents
+occupation,4820,"SAL-Securities, Commodities, And Financial Services Sales Agents"
+occupation,4830,SAL-Travel Agents
+occupation,4840,"SAL-Sales Representatives Of Services, Except Advertising, Insurance, Financial Services, And Travel"
+occupation,4850,"SAL-Sales Representatives, Wholesale And Manufacturing"
+occupation,4900,"SAL-Models, Demonstrators, And Product Promoters"
+occupation,4920,SAL-Real Estate Brokers And Sales Agents
+occupation,4930,SAL-Sales Engineers
+occupation,4940,SAL-Telemarketers
+occupation,4950,"SAL-Door-To-Door Sales Workers, News And Street Vendors, And Related Workers"
+occupation,4965,"SAL-Sales And Related Workers, All Other"
+occupation,5000,OFF-First-Line Supervisors Of Office And Administrative Support Workers
+occupation,5010,"OFF-Switchboard Operators, Including Answering Service"
+occupation,5020,OFF-Telephone Operators
+occupation,5040,"OFF-Communications Equipment Operators, All Other"
+occupation,5100,OFF-Bill And Account Collectors
+occupation,5110,OFF-Billing And Posting Clerks
+occupation,5120,"OFF-Bookkeeping, Accounting, And Auditing Clerks"
+occupation,5140,OFF-Payroll And Timekeeping Clerks
+occupation,5150,OFF-Procurement Clerks
+occupation,5160,OFF-Tellers
+occupation,5165,OFF-Other Financial Clerks
+occupation,5220,"OFF-Court, Municipal, And License Clerks"
+occupation,5230,"OFF-Credit Authorizers, Checkers, And Clerks"
+occupation,5240,OFF-Customer Service Representatives
+occupation,5250,"OFF-Eligibility Interviewers, Government Programs"
+occupation,5260,OFF-File Clerks
+occupation,5300,"OFF-Hotel, Motel, And Resort Desk Clerks"
+occupation,5310,"OFF-Interviewers, Except Eligibility And Loan"
+occupation,5320,"OFF-Library Assistants, Clerical"
+occupation,5330,OFF-Loan Interviewers And Clerks
+occupation,5340,OFF-New Accounts Clerks
+occupation,5350,OFF-Correspondence Clerks And Order Clerks
+occupation,5360,"OFF-Human Resources Assistants, Except Payroll And Timekeeping"
+occupation,5400,OFF-Receptionists And Information Clerks
+occupation,5410,OFF-Reservation And Transportation Ticket Agents And Travel Clerks
+occupation,5420,OFF-Other Information And Records Clerks
+occupation,5500,OFF-Cargo And Freight Agents
+occupation,5510,OFF-Couriers And Messengers
+occupation,5521,OFF-Public Safety Telecommunicators
+occupation,5522,"OFF-Dispatchers, Except Police, Fire, And Ambulance"
+occupation,5530,"OFF-Meter Readers, Utilities"
+occupation,5540,OFF-Postal Service Clerks
+occupation,5550,OFF-Postal Service Mail Carriers
+occupation,5560,"OFF-Postal Service Mail Sorters, Processors, And Processing Machine Operators"
+occupation,5600,"OFF-Production, Planning, And Expediting Clerks"
+occupation,5610,"OFF-Shipping, Receiving, And Inventory Clerks"
+occupation,5630,"OFF-Weighers, Measurers, Checkers, And Samplers, Recordkeeping"
+occupation,5710,OFF-Executive Secretaries And Executive Administrative Assistants
+occupation,5720,OFF-Legal Secretaries and Administrative Assistants
+occupation,5730,OFF-Medical Secretaries and Administrative Assistants
+occupation,5740,"OFF-Secretaries And Administrative Assistants, Except Legal, Medial, And Executive"
+occupation,5810,OFF-Data Entry Keyers
+occupation,5820,OFF-Word Processors And Typists
+occupation,5840,OFF-Insurance Claims And Policy Processing Clerks
+occupation,5850,"OFF-Mail Clerks And Mail Machine Operators, Except Postal Service"
+occupation,5860,"OFF-Office Clerks, General"
+occupation,5900,"OFF-Office Machine Operators, Except Computer"
+occupation,5910,OFF-Proofreaders And Copy Markers
+occupation,5920,OFF-Statistical Assistants
+occupation,5940,OFF-Other Office And Administrative Support Workers
+occupation,6005,"FFF-First-Line Supervisors Of Farming, Fishing, And Forestry Workers"
+occupation,6010,FFF-Agricultural Inspectors
+occupation,6040,"FFF-Graders And Sorters, Agricultural Products"
+occupation,6050,FFF-Other Agricultural Workers
+occupation,6115,FFF-Fishing And Hunting Workers
+occupation,6120,FFF-Forest And Conservation Workers
+occupation,6130,FFF-Logging Workers
+occupation,6200,CON-First-Line Supervisors Of Construction Trades And Extraction Workers
+occupation,6210,CON-Boilermakers
+occupation,6220,"CON-Brickmasons, Blockmasons, Stonemasons, And Reinforcing Iron And Rebar Workers"
+occupation,6230,CON-Carpenters
+occupation,6240,"CON-Carpet, Floor, And Tile Installers And Finishers"
+occupation,6250,"CON-Cement Masons, Concrete Finishers, And Terrazzo Workers"
+occupation,6260,CON-Construction Laborers
+occupation,6305,CON-Construction Equipment Operators
+occupation,6330,"CON-Drywall Installers, Ceiling Tile Installers, And Tapers"
+occupation,6355,CON-Electricians
+occupation,6360,CON-Glaziers
+occupation,6400,CON-Insulation Workers
+occupation,6410,CON-Painters and Paperhangers
+occupation,6441,CON-Pipelayers
+occupation,6442,"CON-Plumbers, Pipefitters, And Steamfitters"
+occupation,6460,CON-Plasterers And Stucco Masons
+occupation,6515,CON-Roofers
+occupation,6520,CON-Sheet Metal Workers
+occupation,6530,CON-Structural Iron And Steel Workers
+occupation,6540,CON-Solar Photovoltaic Installers
+occupation,6600,"CON-Helpers, Construction Trades"
+occupation,6660,CON-Construction And Building Inspectors
+occupation,6700,CON-Elevator Installers And Repairers
+occupation,6710,CON-Fence Erectors
+occupation,6720,CON-Hazardous Materials Removal Workers
+occupation,6730,CON-Highway Maintenance Workers
+occupation,6740,CON-Rail-Track Laying And Maintenance Equipment Operators
+occupation,6765,CON-Other Construction And Related Workers
+occupation,6800,"EXT-Derrick, Rotary Drill, And Service Unit Operators, And Roustabouts, Oil, Gas, And Mining"
+occupation,6825,EXT-Surface Mining Machine Operators And Earth Drillers
+occupation,6835,"EXT-Explosives Workers, Ordnance Handling Experts, and Blasters"
+occupation,6850,EXT-Underground Mining Machine Operators
+occupation,6950,EXT-Other Extraction Workers
+occupation,7000,"RPR-First-Line Supervisors Of Mechanics, Installers, And Repairers"
+occupation,7010,"RPR-Computer, Automated Teller, And Office Machine Repairers"
+occupation,7020,RPR-Radio And Telecommunications Equipment Installers And Repairers
+occupation,7030,RPR-Avionics Technicians
+occupation,7040,"RPR-Electric Motor, Power Tool, And Related Repairers"
+occupation,7100,"RPR-Other Electrical And Electronic Equipment Mechanics, Installers, And Repairers."
+occupation,7120,RPR-Electronic Home Entertainment Equipment Installers And Repairers
+occupation,7130,RPR-Security And Fire Alarm Systems Installers
+occupation,7140,RPR-Aircraft Mechanics And Service Technicians
+occupation,7150,RPR-Automotive Body And Related Repairers
+occupation,7160,RPR-Automotive Glass Installers And Repairers
+occupation,7200,RPR-Automotive Service Technicians And Mechanics
+occupation,7210,RPR-Bus And Truck Mechanics And Diesel Engine Specialists
+occupation,7220,RPR-Heavy Vehicle And Mobile Equipment Service Technicians And Mechanics
+occupation,7240,RPR-Small Engine Mechanics
+occupation,7260,"RPR-Miscellaneous Vehicle And Mobile Equipment Mechanics, Installers, And Repairers"
+occupation,7300,RPR-Control And Valve Installers And Repairers
+occupation,7315,"RPR-Heating, Air Conditioning, And Refrigeration Mechanics And Installers"
+occupation,7320,RPR-Home Appliance Repairers
+occupation,7330,RPR-Industrial And Refractory Machinery Mechanics
+occupation,7340,"RPR-Maintenance And Repair Workers, General"
+occupation,7350,"RPR-Maintenance Workers, Machinery"
+occupation,7360,RPR-Millwrights
+occupation,7410,RPR-Electrical Power-Line Installers And Repairers
+occupation,7420,RPR-Telecommunications Line Installers And Repairers
+occupation,7430,RPR-Precision Instrument And Equipment Repairers
+occupation,7510,"RPR-Coin, Vending, And Amusement Machine Servicers And Repairers"
+occupation,7540,RPR-Locksmiths And Safe Repairers
+occupation,7560,RPR-Riggers
+occupation,7610,"RPR-Helpers--Installation, Maintenance, And Repair Workers"
+occupation,7640,"RPR-Other Installation, Maintenance, And Repair Workers"
+occupation,7700,PRD-First-Line Supervisors Of Production And Operating Workers
+occupation,7720,"PRD-Electrical, Electronics, And Electromechanical Assemblers"
+occupation,7730,PRD-Engine And Other Machine Assemblers
+occupation,7740,PRD-Structural Metal Fabricators And Fitters
+occupation,7750,PRD-Other Assemblers And Fabricators
+occupation,7800,PRD-Bakers
+occupation,7810,"PRD-Butchers And Other Meat, Poultry, And Fish Processing Workers"
+occupation,7830,"PRD-Food And Tobacco Roasting, Baking, And Drying Machine Operators And Tenders"
+occupation,7840,PRD-Food Batchmakers
+occupation,7850,PRD-Food Cooking Machine Operators And Tenders
+occupation,7855,"PRD-Food Processing Workers, All Other"
+occupation,7905,PRD-Computer Numerically Controlled Tool Operators And Programmers
+occupation,7925,"PRD-Forming Machine Setters, Operators, And Tenders, Metal And Plastic"
+occupation,7950,"PRD-Cutting, Punching, And Press Machine Setters, Operators, And Tenders, Metal And Plastic"
+occupation,8000,"Grinding, Lapping, Polishing, And Buffing Machine Tool"
+occupation,8025,"PRD-Other Machine Tool Setters, Operators, And Tenders, Metal and Plastic"
+occupation,8030,PRD-Machinists
+occupation,8040,"PRD-Metal Furnace Operators, Tenders, Pourers, And Casters"
+occupation,8100,"PRD-Model Makers, Patternmakers, And Molding Machine Setters, Metal And Plastic"
+occupation,8130,PRD-Tool And Die Makers
+occupation,8140,"PRD-Welding, Soldering, And Brazing Workers"
+occupation,8225,PRD-Other Metal Workers And Plastic Workers
+occupation,8250,PRD-Prepress Technicians And Workers
+occupation,8255,PRD-Printing Press Operators
+occupation,8256,PRD-Print Binding And Finishing Workers
+occupation,8300,PRD-Laundry And Dry-Cleaning Workers
+occupation,8310,"PRD-Pressers, Textile, Garment, And Related Materials"
+occupation,8320,PRD-Sewing Machine Operators
+occupation,8335,PRD-Shoe And Leather Workers
+occupation,8350,"PRD-Tailors, Dressmakers, And Sewers"
+occupation,8365,"PRD-Textile Machine Setters, Operators, And Tenders"
+occupation,8450,PRD-Upholsterers
+occupation,8465,"PRD-Other Textile, Apparel, And Furnishings Workers"
+occupation,8500,PRD-Cabinetmakers And Bench Carpenters
+occupation,8510,PRD-Furniture Finishers
+occupation,8530,"PRD-Sawing Machine Setters, Operators, And Tenders, Wood"
+occupation,8540,"PRD-Woodworking Machine Setters, Operators, And Tenders, Except Sawing"
+occupation,8555,PRD-Other Woodworkers
+occupation,8600,"PRD-Power Plant Operators, Distributors, And Dispatchers"
+occupation,8610,PRD-Stationary Engineers And Boiler Operators
+occupation,8620,PRD-Water And Wastewater Treatment Plant And System Operators
+occupation,8630,PRD-Miscellaneous Plant And System Operators
+occupation,8640,"PRD-Chemical Processing Machine Setters, Operators, And Tenders"
+occupation,8650,"PRD-Crushing, Grinding, Polishing, Mixing, And Blending Workers"
+occupation,8710,PRD-Cutting Workers
+occupation,8720,"PRD-Extruding, Forming, Pressing, And Compacting Machine Setters, Operators, And Tenders"
+occupation,8730,"PRD-Furnace, Kiln, Oven, Drier, And Kettle Operators And Tenders"
+occupation,8740,"PRD-Inspectors, Testers, Sorters, Samplers, And Weighers"
+occupation,8750,PRD-Jewelers And Precious Stone And Metal Workers
+occupation,8760,PRD-Dental And Ophthalmic Laboratory Technicians And Medical Appliance Technicians
+occupation,8800,PRD-Packaging And Filling Machine Operators And Tenders
+occupation,8810,PRD-Painting Workers
+occupation,8830,PRD-Photographic Process Workers And Processing Machine Operators
+occupation,8850,PRD-Adhesive Bonding Machine Operators And Tenders
+occupation,8910,PRD-Etchers And Engravers
+occupation,8920,"PRD-Molders, Shapers, And Casters, Except Metal And Plastic"
+occupation,8930,"PRD-Paper Goods Machine Setters, Operators, And Tenders"
+occupation,8940,PRD-Tire Builders
+occupation,8950,PRD-Helpers-Production Workers
+occupation,8990,"PRD-Miscellaneous Production Workers, Including Equipment Operators And Tenders"
+occupation,9005,TRN-Supervisors Of Transportation And Material Moving Workers
+occupation,9030,TRN-Aircraft Pilots And Flight Engineers
+occupation,9040,TRN-Air Traffic Controllers And Airfield Operations Specialists
+occupation,9050,TRN-Flight Attendants
+occupation,9110,"TRN-Ambulance Drivers And Attendants, Except Emergency Medical Technicians"
+occupation,9121,"TRN-Bus Drivers, School"
+occupation,9122,"TRN-Bus Drivers, Transit And Intercity"
+occupation,9130,TRN-Driver/Sales Workers And Truck Drivers
+occupation,9141,TRN-Shuttle Drivers And Chauffeurs
+occupation,9142,TRN-Taxi Drivers
+occupation,9150,"TRN-Motor Vehicle Operators, All Other"
+occupation,9210,TRN-Locomotive Engineers And Operators
+occupation,9240,TRN-Railroad Conductors And Yardmasters
+occupation,9265,TRN-Other Rail Transportation Workers
+occupation,9300,"TRN-Sailors And Marine Oilers, And Ship Engineers"
+occupation,9310,TRN-Ship And Boat Captains And Operators
+occupation,9350,TRN-Parking Lot Attendants
+occupation,9365,TRN-Transportation Service Attendants
+occupation,9410,TRN-Transportation Inspectors
+occupation,9415,TRN-Passenger Attendants
+occupation,9430,TRN-Other Transportation Workers
+occupation,9510,TRN-Crane And Tower Operators
+occupation,9570,"TRN-Conveyor, Dredge, And Hoist and Winch Operators"
+occupation,9600,TRN-Industrial Truck And Tractor Operators
+occupation,9610,TRN-Cleaners Of Vehicles And Equipment
+occupation,9620,"TRN-Laborers And Freight, Stock, And Material Movers, Hand"
+occupation,9630,TRN-Machine Feeders And Offbearers
+occupation,9640,"TRN-Packers And Packagers, Hand"
+occupation,9645,TRN-Stockers And Order Fillers
+occupation,9650,TRN-Pumping Station Operators
+occupation,9720,TRN-Refuse And Recyclable Material Collectors
+occupation,9760,TRN-Other Material Moving Workers
+occupation,9800,MIL-Military Officer Special And Tactical Operations Leaders
+occupation,9810,MIL-First-Line Enlisted Military Supervisors
+occupation,9825,MIL-Military Enlisted Tactical Operations And Air/Weapons Specialists And Crew Members
+occupation,9830,"MIL-Military, Rank Not Specified"
+occupation,9920,Unemployed And Last Worked 5 Years Ago Or Earlier Or Never Worked
